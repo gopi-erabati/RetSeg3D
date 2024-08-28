@@ -20,6 +20,9 @@ LiDAR semantic segmentation is one of the crucial tasks for scene understanding 
 
 ## Results
 
+### Predictions on Waymo dataset
+![1724336343405-ezgif com-optimize](https://github.com/user-attachments/assets/29e52396-7573-4908-9c75-67a1cb5010c3)
+
 ### Predictions on SemanticKITTI, Waymo and nuScenes datasets
 ![RetSeg3D_Retention-based3DSemanticSegmentationforAutonomousDriving-ezgif com-video-to-gif-converter](https://github.com/gopi-erabati/RetSeg3D/assets/22390149/254570b0-0cfb-49cc-961a-6be1bfbab68a)
 
