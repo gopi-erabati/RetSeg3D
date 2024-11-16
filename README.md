@@ -2,7 +2,7 @@
 
 This is the official PyTorch implementation of the paper **RetSeg3D: Retention-based 3D Semantic Segmentation for Autonomous Driving**, by Gopi Krishna Erabati and Helder Araujo.
 
-G. K. Erabati and H. Araujo, "RetSeg3D: Retention-based 3D Semantic Segmentation for Autonomous Driving," in _Computer Vision and Image Understanding (CVIU)_, 2024.
+G. K. Erabati and H. Araujo, "RetSeg3D: Retention-based 3D Semantic Segmentation for Autonomous Driving," in _Computer Vision and Image Understanding (CVIU)_, 2024. [https://doi.org/10.1016/j.cviu.2024.104231](https://doi.org/10.1016/j.cviu.2024.104231)
 
 **Contents**
 1. [Overview](https://github.com/gopi-erabati/RetSeg3D#overview)
@@ -123,10 +123,14 @@ We sincerely thank the contributors for their open-source code: [MMDetection3D](
 
 ## Reference
 ```
-@article{retseg3d,
-title = {RetSeg3D: Retention-based 3D Semantic Segmentation for Autonomous Driving},
+@article{ERABATI2024104231,
+title = {RetSeg3D: Retention-based 3D semantic segmentation for autonomous driving},
 journal = {Computer Vision and Image Understanding},
+pages = {104231},
 year = {2024},
+issn = {1077-3142},
+doi = {https://doi.org/10.1016/j.cviu.2024.104231},
+url = {https://www.sciencedirect.com/science/article/pii/S1077314224003126},
 author = {Gopi Krishna Erabati and Helder Araujo},
 }
 ```
